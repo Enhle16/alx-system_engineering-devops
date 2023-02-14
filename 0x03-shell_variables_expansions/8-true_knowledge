@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((128 . $RRUSKNOWLEDGE))
+echo $(($TRUEKNOWLEDGE+128))
